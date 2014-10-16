@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "SlaaySourceCoders",
+  "description": "My first Firefox OS app!",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/firefoxlogo_128x128.png"
+  },
+  "developer": {
+    "name": "Presley Dias",
+    "url": "http://www.slaaysourcecoders.in"
+  },
+  "default_locale": "en"   
+}
